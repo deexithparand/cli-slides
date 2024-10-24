@@ -1,0 +1,7 @@
+lang: en-US
+allowLocalFiles: true
+theme: theme/slide.css
+inputDir: .
+output: ./output
+pdf: true
+html: true

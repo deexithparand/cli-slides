@@ -17,12 +17,6 @@ jobs:
           config-file: ./.marprc-ci.yml
           generate-html: true
           generate-pdf: true
-      # upload output artifact to github container registry.
-      # - name: Save outputs
-      #   uses: actions/upload-artifact@v2
-      #   with:
-      #     name: output
-      #     path: ./output
 
       - name: Deploy site to gh-pages branch
         uses: crazy-max/ghaction-github-pages@v2
@@ -31,8 +25,3 @@ jobs:
           build_dir: output
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
-      # - name: Deploy to GitHub Pages
-      #   uses: peaceiris/actions-gh-pages@v4
-      #   with:
-      #     github_token: ${{ secrets.GITHUB_TOKEN }}
-      #     publish_dir: ./output

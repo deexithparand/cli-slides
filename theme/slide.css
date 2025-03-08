@@ -4,18 +4,40 @@
 section.top {
     background-color: #211C84; /* Dark Blue */
     color: white;
+    font-size: 24px;
 }
 
 section.title {
-    background-color: #4D55CC; /* Medium Blue */
+    background-color: #2E4A92; /* Deep Indigo */
     color: white;
+    font-size: 22px;
 }
 
 section {
-    background-color: #7A73D1; /* Light Purple */
+    background-color: #5C6F99; /* Muted Slate Blue */
     color: white;
+    font-size: 20px;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    color: #B5A8D5; /* Soft Lavender */
+h1 {
+    color: #F5F5FA; /* Soft White */
+    font-size: 32px;
+    font-weight: bold;
+}
+
+h2, h3, h4, h5, h6 {
+    color: #D9DBF1; /* Light Periwinkle */
+    font-size: 28px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+    color: #EAEAF5; /* Gentle Grayish White */
+}
+
+code {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 4px 6px;
+    border-radius: 4px;
 }

@@ -9,11 +9,15 @@ marp: true
 
 ## About Me
 ###### (Just Another Developer)
-- Platform Engineer at JMAN Group
-- Passionate about automation and DevOps
-- Loves building scalable and efficient solutions
 
-![width:150px](https://raw.githubusercontent.com/deexithparand/cli-slides/main/qr-code.png)
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div>
+    - Platform Engineer at JMAN Group  
+    - Passionate about automation and DevOps  
+    - Loves building scalable and efficient solutions
+  </div>
+  <img src="https://raw.githubusercontent.com/deexithparand/cli-slides/main/qr-code.png" style="height:auto; max-width: 120px;">
+</div>
 
 ---
 
@@ -74,4 +78,6 @@ marp: true
 ## Thanks for Attending!
 ###### Reuse This Idea, Make It Better!
 
-![width:200px](https://raw.githubusercontent.com/deexithparand/cli-slides/main/thanks.gif)
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/deexithparand/cli-slides/main/thanks.gif" style="height:auto; max-width: 200px;">
+</div>

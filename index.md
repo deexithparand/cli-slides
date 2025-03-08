@@ -3,8 +3,10 @@ marp: true
 ---
 <!-- _class: top -->
 
-# OrgGuard: Enforcing GitHub Policies with OPA
+# OrgGuard – Automate GitHub Policy Checks & Visualize Compliance in Grafana
 ###### by Deexith Parandaman
+<img src="https://raw.githubusercontent.com/deexithparand/cli-slides/main/jman_group_cover.webp" style="max-width: 300px; display: block; margin: auto;">
+
 ---
 
 ## About Me

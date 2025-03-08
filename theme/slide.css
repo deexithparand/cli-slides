@@ -2,8 +2,20 @@
 @import 'default';
 
 section.top {
-    background-color: lightblue;
+    background-color: #211C84; /* Dark Blue */
+    color: white;
 }
+
 section.title {
-    background-color: lightcyan;
+    background-color: #4D55CC; /* Medium Blue */
+    color: white;
+}
+
+section {
+    background-color: #7A73D1; /* Light Purple */
+    color: white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #B5A8D5; /* Soft Lavender */
 }

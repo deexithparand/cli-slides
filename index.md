@@ -13,7 +13,9 @@ marp: true
 - Passionate about automation and DevOps
 - Loves building scalable and efficient solutions
 
-![JMAN Group Logo]([jman_group_cover.webp](https://raw.githubusercontent.com/deexithparand/cli-slides/refs/heads/main/jman_group_cover.webp))
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/deexithparand/cli-slides/refs/heads/main/jman_group_cover.webp" style="width: auto; height: 50%;">
+</div>
 
 ---
 
@@ -74,11 +76,15 @@ marp: true
 ## Thanks for Attending!
 ###### Reuse This Idea, Make It Better!
 
-![Thanks](https://raw.githubusercontent.com/deexithparand/cli-slides/refs/heads/main/thanks.gif)
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/deexithparand/cli-slides/main/thanks.gif" style="width: auto; height: 50%;">
+</div>
 
 ### 📩 Connect with Me
 
-![Contact QR](https://raw.githubusercontent.com/deexithparand/cli-slides/refs/heads/main/qr-code.png)
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/deexithparand/cli-slides/main/qr-code.png" style="width: auto; height: 50%;">
+</div>
 
 
 

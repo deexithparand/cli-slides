@@ -11,7 +11,7 @@ marp: true
 ###### (Just Another Developer)
 
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center; gap: 15px;">
-  <div style="text-align: left;">
+  <div style="text-align: left; width: 100%;">
     - Platform Engineer at JMAN Group  <br>
     - Passionate about automation and DevOps  <br>
     - Loves building scalable and efficient solutions  

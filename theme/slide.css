@@ -4,40 +4,56 @@
 section.top {
     background-color: #211C84; /* Dark Blue */
     color: white;
-    font-size: 24px;
+    font-size: 26px;
+    font-family: "Inter", sans-serif; /* Clean, modern font */
+    font-weight: 500;
 }
 
 section.title {
     background-color: #2E4A92; /* Deep Indigo */
     color: white;
-    font-size: 22px;
+    font-size: 24px;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
 }
 
 section {
     background-color: #5C6F99; /* Muted Slate Blue */
     color: white;
-    font-size: 20px;
+    font-size: 22px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    line-height: 1.6;
 }
 
 h1 {
-    color: #F5F5FA; /* Soft White */
-    font-size: 32px;
-    font-weight: bold;
+    color: #FFFFFF; /* Pure White */
+    font-size: 36px;
+    font-weight: 700;
+    font-family: "Poppins", sans-serif; /* Elegant and modern */
 }
 
 h2, h3, h4, h5, h6 {
     color: #D9DBF1; /* Light Periwinkle */
-    font-size: 28px;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
 }
 
 p {
-    font-size: 18px;
-    line-height: 1.5;
+    font-size: 20px;
+    line-height: 1.6;
     color: #EAEAF5; /* Gentle Grayish White */
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
 }
 
 code {
-    background-color: rgba(255, 255, 255, 0.1);
-    padding: 4px 6px;
-    border-radius: 4px;
+    background-color: rgba(255, 255, 255, 0.15);
+    padding: 5px 8px;
+    border-radius: 6px;
+    font-family: "Fira Code", monospace; /* Best for readability */
+    font-size: 18px;
+    font-weight: 500;
+    color: #FFD580; /* Warm Yellow for contrast */
 }

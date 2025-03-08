@@ -13,9 +13,7 @@ marp: true
 - Passionate about automation and DevOps
 - Loves building scalable and efficient solutions
 
-<div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/deexithparand/cli-slides/main/qr-code.png" style="width: auto; height: 20%;">
-</div>
+![width:150px](https://raw.githubusercontent.com/deexithparand/cli-slides/main/qr-code.png)
 
 ---
 
@@ -76,8 +74,4 @@ marp: true
 ## Thanks for Attending!
 ###### Reuse This Idea, Make It Better!
 
-<div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/deexithparand/cli-slides/main/thanks.gif" style="width: auto; height: 20%;">
-</div>
-
-
+![width:200px](https://raw.githubusercontent.com/deexithparand/cli-slides/main/thanks.gif)

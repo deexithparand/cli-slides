@@ -9,9 +9,11 @@ marp: true
 
 ## About Me
 ###### (Just Another Developer)
-- Software Engineer
+- Platform Engineer at JMAN Group
 - Passionate about automation and DevOps
 - Loves building scalable and efficient solutions
+
+![JMAN Group Logo](https://x.com/JMANGroup/header_photo)
 
 ---
 
@@ -72,5 +74,9 @@ marp: true
 ## Thanks for Attending!
 ###### Reuse This Idea, Make It Better!
 
-![alt text](https://th.bing.com/th/id/R.7157092fa451872c1618424d35f72919?rik=DHTnIge1GdiUEw&riu=http%3a%2f%2fs2.quickmeme.com%2fimg%2f23%2f230661ee8821d99787bd752eaf41a33578e178491a6d703c9a914e132e8ac4ab.jpg&ehk=rVsz2CD%2fFQzOL11G4AX0mYkVtopJb3TRBZxHFkbZaQ8%3d&risl=&pid=ImgRaw&r=0)
+![Thanks](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFyc2dyN3l1cWFlZmhzY3RqbDh0eWFsc2VyZjl4dXF5NnM2cGNnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KJ1f5iTl4Oo7u/giphy.gif)
+
+### 📩 Connect with Me
+
+![Contact QR](qr-code.png)
 

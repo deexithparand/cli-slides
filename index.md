@@ -5,7 +5,6 @@ marp: true
 
 # OrgGuard – Automate GitHub Policy Checks & Visualize Compliance in Grafana
 ###### by Deexith Parandaman
-<img src="https://raw.githubusercontent.com/deexithparand/cli-slides/main/jman_group_cover.webp" style="display: block; margin: auto;">
 
 ---
 

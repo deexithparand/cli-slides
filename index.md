@@ -10,13 +10,13 @@ marp: true
 ## About Me
 ###### (Just Another Developer)
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <div>
-    - Platform Engineer at JMAN Group  
-    - Passionate about automation and DevOps  
-    - Loves building scalable and efficient solutions
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center; gap: 15px;">
+  <div style="text-align: left;">
+    - Platform Engineer at JMAN Group  <br>
+    - Passionate about automation and DevOps  <br>
+    - Loves building scalable and efficient solutions  
   </div>
-  <img src="https://raw.githubusercontent.com/deexithparand/cli-slides/main/qr-code.png" style="max-width: 120px; display: block; margin: auto;">
+  <img src="https://raw.githubusercontent.com/deexithparand/cli-slides/main/qr-code.png" style="max-width: 200px; display: block; margin: auto;">
 </div>
 
 ---

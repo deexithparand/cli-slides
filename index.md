@@ -14,7 +14,7 @@ marp: true
 - Loves building scalable and efficient solutions
 
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/deexithparand/cli-slides/main/qr-code.png" style="width: auto; height: 50%;">
+  <img src="https://raw.githubusercontent.com/deexithparand/cli-slides/main/qr-code.png" style="width: auto; height: 20%;">
 </div>
 
 ---
@@ -77,7 +77,7 @@ marp: true
 ###### Reuse This Idea, Make It Better!
 
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/deexithparand/cli-slides/main/thanks.gif" style="width: auto; height: 50%;">
+  <img src="https://raw.githubusercontent.com/deexithparand/cli-slides/main/thanks.gif" style="width: auto; height: 20%;">
 </div>
 
 

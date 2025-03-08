@@ -13,7 +13,7 @@ marp: true
 - Passionate about automation and DevOps
 - Loves building scalable and efficient solutions
 
-![JMAN Group Logo](https://x.com/JMANGroup/header_photo)
+![JMAN Group Logo](jman_group_cover.webp)
 
 ---
 
@@ -74,7 +74,7 @@ marp: true
 ## Thanks for Attending!
 ###### Reuse This Idea, Make It Better!
 
-![Thanks](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWFyc2dyN3l1cWFlZmhzY3RqbDh0eWFsc2VyZjl4dXF5NnM2cGNnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KJ1f5iTl4Oo7u/giphy.gif)
+![Thanks](thanks.gif)
 
 ### 📩 Connect with Me
 
